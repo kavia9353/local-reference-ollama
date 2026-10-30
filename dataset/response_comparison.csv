@@ -1,0 +1,5 @@
+﻿prompt_id,prompt,word_count,model,status
+1,Explain artificial intelligence in simple English.,214,llama3.2,Success
+2,What is machine learning?,459,llama3.2,Success
+3,Explain Python exception handling with an example.,292,llama3.2,Success
+4,What is a large language model?,438,llama3.2,Success
